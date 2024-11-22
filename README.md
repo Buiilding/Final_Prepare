@@ -247,7 +247,7 @@ StringBuilder sb = new StringBuilder(s);
 sb.reverse().append("CS").delete(0, 2);
 System.out.println(sb);
 ```
-A) PurdueCS
+A) druPCS
 
 B) eudrCS
 
